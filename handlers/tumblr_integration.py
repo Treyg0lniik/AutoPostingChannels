@@ -10,7 +10,7 @@ from telegram.ext import CommandHandler, CallbackQueryHandler, ContextTypes
 from storage.storage import Storage
 
 SEARCH_URL = "https://api.tumblr.com/v2/tagged"
-TUMBLR_API_KEY = ContextTypes.bot_data["TUMBLR_API_KEY"]
+TUMBLR_API_KEY  = os.getenv("TUMBLR_API_KEY")
 
 def extract_img(body: str) -> str | None:
     soup = BeautifulSoup(body, "html.parser")
