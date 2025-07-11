@@ -1,0 +1,118 @@
+{
+  "bindings": {
+    "-1002841153883": {
+      "channel": "@testinggrouppostingbot",
+      "owner": 8114187937
+    }
+  },
+  "promos": {
+    "1113": 1760807261
+  },
+  "trust": {
+    "-1002841153883": [
+      "Hshshshshshs929"
+    ]
+  },
+  "settings": {
+    "-1002841153883": {
+      "template": "··•✧ {tags}✧•··\n\n✧─ Аʙᴛ᧐ρ: {author}\n\n❧Пᴩᴇдᴧᴏжᴋᴀ: {communication}\n{hiddenlink1} \n{hiddenlink2}",
+      "slots": [
+        "18:14",
+        "18:15",
+        "18:16",
+        "18:17",
+        "18:18",
+        "18:19",
+        "18:20",
+        "18:21",
+        "18:22",
+        "18:23",
+        "18:24",
+        "18:25",
+        "18:26",
+        "18:27",
+        "18:28",
+        "18:29",
+        "18:30"
+      ],
+      "communication_text": "@Treyg0lniik",
+      "whitelist": [
+        "art",
+        "edit",
+        "3d",
+        "meme",
+        "animation",
+        "cosplay",
+        "ai",
+        "pomni",
+        "jax",
+        "ragatha",
+        "gangle",
+        "kinger",
+        "queenie",
+        "zooble",
+        "kaufmo",
+        "caine",
+        "bubble",
+        "gummigoo",
+        "max",
+        "chad",
+        "princesssloolilalu",
+        "fudge",
+        "(помадка)",
+        "ghostly",
+        "npcmartha",
+        "orbsman",
+        "sun",
+        "moon",
+        "gloink",
+        "mass",
+        "plush",
+        "ribbit",
+        "jomni",
+        "jagatha",
+        "gummypomni",
+        "ribbonrags",
+        "buttomblossom",
+        "zax",
+        "abstragedy",
+        "abstractcomedy"
+      ],
+      "hiddenlink1_text": "···─────Буᥴᴛᥲнуᴛь—нас👾",
+      "hiddenlink1_url": "https://t.me/boost/MurderDronesTelegram",
+      "hiddenlink2_text": "···───𝙼𝚞𝚛𝚍𝚎𝚛--𝙳𝚛𝚘𝚗𝚎𝚜😳",
+      "hiddenlink2_url": "https://t.me/MurderDronesTelegram"
+    }
+  },
+  "scheduled": {
+    "-1002841153883": [
+      1752243300,
+      1752244500,
+      1752244800,
+      1752245100,
+      1752245400,
+      1752245700,
+      1752246000,
+      1752246300,
+      1752246600,
+      1752246900,
+      1752247200,
+      1752247500,
+      1752247800,
+      1752248100,
+      1752248400,
+      1752248700,
+      1752249000,
+      1752249300,
+      1752249600,
+      1752249900,
+      1752250200,
+      1752250500,
+      1752250800,
+      1752251100,
+      1752251400,
+      1752251700,
+      1752332640
+    ]
+  }
+}
