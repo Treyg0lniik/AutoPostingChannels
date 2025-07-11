@@ -1,0 +1,17 @@
+# Telegram API
+python-telegram-bot==20.5
+
+# HTTP-клиент
+httpx==0.24.1
+
+# Парсинг HTML (BeautifulSoup)
+beautifulsoup4==4.12.2
+
+# Pydantic для валидации (если где-то используете BaseModel)
+pydantic==1.10.7
+
+# Асинхронный HTTP‑сервер для health‑endpoint
+aiohttp==3.8.4
+
+# (опционально) Загрузка переменных окружения из .env
+python-dotenv==1.0.0
