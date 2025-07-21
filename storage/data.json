@@ -11,12 +11,31 @@
     "-1002877665811": {
       "channel": "@FNAF_Telegram",
       "owner": 8114187937
+    },
+    "-1002061031129": {
+      "channel": "@MurderDronesTelegram",
+      "owner": 8114187937
+    },
+    "-4869002654": {
+      "channel": "@TheGaslightDistrictTelegram",
+      "owner": 8114187937
+    },
+    "-4852975957": {
+      "channel": "@MurderDronesTelegram",
+      "owner": 8114187937
+    },
+    "-1002631677244": {
+      "channel": "@MurderDronesTelegram",
+      "owner": 8114187937
     }
   },
   "promos": {
     "1113": 1760816299,
     "1114": 2616179202,
-    "1115": 2616223288
+    "1115": 2616223288,
+    "1116": 2616768537,
+    "1117": 2616774868,
+    "1118": 2616860484
   },
   "trust": {
     "-1002841153883": [
@@ -30,7 +49,26 @@
       "Drones_Praim"
     ],
     "-1002877665811": [
-      "elfreight"
+      "elfreight",
+      "FireAndWhiteAsh"
+    ],
+    "-1002061031129": [
+      "Hshshshshshs929",
+      "Hshshshs929",
+      "MDxHH_AngelDust",
+      "Mogovez"
+    ],
+    "-4869002654": [
+      "FireAndWhiteAsh"
+    ],
+    "-4852975957": [
+      "DronesDoll",
+      "TinyVoki"
+    ],
+    "-1002631677244": [
+      "DronesDoll",
+      "TinyVoki",
+      "Senptikk"
     ]
   },
   "settings": {
@@ -598,6 +636,106 @@
       "hiddenlink1_url": "https://t.me/boost/FNAF_Telegram",
       "hiddenlink2_text": "···───FNAF😳",
       "hiddenlink2_url": "https://t.me/FNAF_Telegram"
+    },
+    "-1002061031129": {
+      "template": "╔═•°★ {tags} ★°•═╗\n▶ Аʙᴛᴏʀ: {author} (tumblr) 🎙️\n➽ Пᴩᴇдᴧᴏжᴋᴀ: {communication}\n🔗 {hiddenlink1} 🌸\n🔗 {hiddenlink2} 🦋\n◉◉━━･ﾟ✧  ✧･ﾟ━━◉◉",
+      "slots": [
+        "02:00",
+        "04:00",
+        "06:00",
+        "08:00",
+        "10:00",
+        "12:00",
+        "14:00",
+        "15:00",
+        "16:00",
+        "17:00",
+        "18:00",
+        "19:00",
+        "20:00",
+        "21:00",
+        "22:00",
+        "23:00"
+      ],
+      "communication_text": "В лс канала",
+      "hiddenlink1_text": "···─────Буᥴᴛᥲнуᴛь—нас👾",
+      "hiddenlink1_url": "https://t.me/boost/murderdronestelegram",
+      "hiddenlink2_text": "···───𝙼𝚞𝚛𝚍𝚎𝚛--𝙳𝚛𝚘𝚗𝚎𝚜🎮",
+      "hiddenlink2_url": "https://t.me/murderdronestelegram"
+    },
+    "-4869002654": {
+      "template": "{tags} ★°•═╗\n▶ Аʙᴛᴏʀ: {author} (tumblr) 🎙️\n➽ Пᴩᴇдᴧᴏжᴋᴀ: {communication}\n🔗 {hiddenlink1} 🌸\n🔗 {hiddenlink2} 🦋\n◉◉━━･ﾟ✧  ✧･ﾟ━━◉◉",
+      "slots": [
+        "02:00",
+        "04:00",
+        "06:00",
+        "08:00",
+        "10:00",
+        "12:00",
+        "14:00",
+        "15:00",
+        "16:00",
+        "17:00",
+        "18:00",
+        "19:00",
+        "20:00",
+        "21:00",
+        "22:00",
+        "23:00"
+      ],
+      "communication_text": "@FireAndWhiteAsh",
+      "hiddenlink1_text": "···─────Буᥴᴛᥲнуᴛь—нас👾",
+      "hiddenlink1_url": "https://t.me/boost/TheGaslightDistrictTelegram",
+      "hiddenlink2_text": "···───the-gaslight-district🔫",
+      "hiddenlink2_url": "https://t.me/TheGaslightDistrictTelegram"
+    },
+    "-4852975957": {
+      "template": "╔═•°★ {tags} ★°•═╗\n▶ Аʙᴛᴏʀ: {author} (tumblr) 🎙️\n➽ Пᴩᴇдᴧᴏжᴋᴀ: {communication}\n🔗 {hiddenlink1} 🌸\n🔗 {hiddenlink2} 🦋\n◉◉━━･ﾟ✧  ✧･ﾟ━━◉◉",
+      "slots": [
+        "00:00",
+        "02:00",
+        "06:00",
+        "08:00",
+        "09:00",
+        "10:00",
+        "12:00",
+        "14:00",
+        "15:00",
+        "16:00",
+        "17:00",
+        "18:00",
+        "20:00",
+        "22:00"
+      ],
+      "communication_text": "В лс канала",
+      "hiddenlink1_text": "···─────Буᥴᴛᥲнуᴛь—нас👾",
+      "hiddenlink1_url": "https://t.me/boost/MurderDronesTelegram",
+      "hiddenlink2_text": "···───𝙼𝚞𝚛𝚍𝚎𝚛--𝙳𝚛𝚘𝚗𝚎𝚜😳",
+      "hiddenlink2_url": "https://t.me/MurderDronesTelegram"
+    },
+    "-1002631677244": {
+      "template": "╔═•°★ {tags} ★°•═╗\n▶ Аʙᴛᴏʀ: {author} (tumblr) 🎙️\n➽ Пᴩᴇдᴧᴏжᴋᴀ: {communication}\n🔗 {hiddenlink1} 🌸\n🔗 {hiddenlink2} 🦋\n◉◉━━･ﾟ✧  ✧･ﾟ━━◉◉",
+      "slots": [
+        "00:00",
+        "02:00",
+        "06:00",
+        "08:00",
+        "09:00",
+        "10:00",
+        "12:00",
+        "14:00",
+        "15:00",
+        "16:00",
+        "17:00",
+        "18:00",
+        "20:00",
+        "22:00"
+      ],
+      "communication_text": "В лс канала",
+      "hiddenlink1_text": "···─────Буᥴᴛᥲнуᴛь—нас👾",
+      "hiddenlink1_url": "https://t.me/boost/MurderDronesTelegram",
+      "hiddenlink2_text": "···───𝙼𝚞𝚛𝚍𝚎𝚛--𝙳𝚛𝚘𝚗𝚎𝚜😳",
+      "hiddenlink2_url": "https://t.me/MurderDronesTelegram"
     }
   },
   "scheduled": {
@@ -641,11 +779,23 @@
       1752357600,
       1752364800,
       1752372000,
-      1752386400
+      1752386400,
+      1752573600
     ],
     "-1002877665811": [
       1752314400,
       1752310500
+    ],
+    "-1002061031129": [],
+    "-4869002654": [],
+    "-4852975957": [],
+    "-1002631677244": [
+      1753077600,
+      1753084800,
+      1753088400,
+      1753092000,
+      1753099200,
+      1753106400
     ]
   }
 }
